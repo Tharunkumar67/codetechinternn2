@@ -1,3 +1,9 @@
+
+
+
+
+
+![Screenshot 2024-08-30 110448](https://github.com/user-attachments/assets/36dbf378-cb28-4100-8405-9dff76ea0a06)
 Basic Java Calculator
 Overview
 A simple Java command-line calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
